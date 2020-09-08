@@ -1,3 +1,3 @@
 # alx-zero_day
  
-For vulnerabilities that are currently being exploited.
+For vulnerabilities that are actively being exploited.
